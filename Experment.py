@@ -1,0 +1,11 @@
+date = "On 14th February"
+print(date.center(40))
+print(" Pavan  :",end="")
+print(input())
+print("\n Keerthi: Hi")
+print("Pavan  :",end="")
+print(input())
+print("\nKeerthi: Thanks")
+print("Pavan :",end="")
+print(input())
+print("\nKeerthi: Guddalo thanthe Gaddala Eguruthav! Dengey ikkada nundi")
